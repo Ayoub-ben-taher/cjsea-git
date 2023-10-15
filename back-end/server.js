@@ -1,1 +1,1 @@
-console.log("ahla wahla🚀🚀")
+console.log("ahla wa sahla🚀🚀")
